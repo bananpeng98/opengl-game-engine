@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace opengl_game_engine
+namespace testing
 {
     class Program
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

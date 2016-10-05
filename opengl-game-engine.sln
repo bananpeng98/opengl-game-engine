@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opengl-game-engine", "opengl-game-engine\opengl-game-engine.csproj", "{D35FFC44-BC1B-461D-8090-584476C84FAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing", "opengl-game-engine\testing.csproj", "{D35FFC44-BC1B-461D-8090-584476C84FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "engine", "engine\engine.csproj", "{BA6E29BE-2AE4-4E94-9B26-CCD5D8E340F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D35FFC44-BC1B-461D-8090-584476C84FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D35FFC44-BC1B-461D-8090-584476C84FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D35FFC44-BC1B-461D-8090-584476C84FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6E29BE-2AE4-4E94-9B26-CCD5D8E340F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6E29BE-2AE4-4E94-9B26-CCD5D8E340F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6E29BE-2AE4-4E94-9B26-CCD5D8E340F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6E29BE-2AE4-4E94-9B26-CCD5D8E340F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

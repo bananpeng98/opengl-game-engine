@@ -7,8 +7,8 @@
     <ProjectGuid>{D35FFC44-BC1B-461D-8090-584476C84FAC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>opengl_game_engine</RootNamespace>
-    <AssemblyName>opengl-game-engine</AssemblyName>
+    <RootNamespace>testing</RootNamespace>
+    <AssemblyName>testing</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
