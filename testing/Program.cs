@@ -10,7 +10,8 @@ namespace testing
     {
         static void Main(string[] args)
         {
-
+            using (TestScene scene = new TestScene())
+                scene.Run();
         }
     }
 }
